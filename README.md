@@ -22,6 +22,12 @@ website : [ Editor](https://sql-react-editor.vercel.app/)
 - `select * from products`  
 - `select * from regions`  
 
+##  Page Load Time
+
+I calculated the performance and load time of this website using BrowserStack SpeedLab.
+
+
+![lighthouse report](src/assets/imgs/speed.png)
 
 
 ## Optimaztion
