@@ -1,6 +1,6 @@
 # SQL React Editor
 
-
+![Homepage](src/assets/imgs/Capture.PNG)
 ##  Demo
 
 
