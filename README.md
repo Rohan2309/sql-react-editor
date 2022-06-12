@@ -27,7 +27,7 @@ website : [ Editor](https://sql-react-editor.vercel.app/)
 I calculated the performance and load time of this website using BrowserStack SpeedLab.
 
 
-![lighthouse report](src/assets/imgs/speed.png)
+![Reportt](src/assets/imgs/speed.PNG)
 
 
 ## Optimaztion
